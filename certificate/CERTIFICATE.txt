@@ -1,0 +1,4 @@
+Générer dans ce dossier le certificat SSL avec la nomenclature suivante :
+	server.key
+	server.cert
+
